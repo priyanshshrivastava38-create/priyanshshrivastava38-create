@@ -1,77 +1,103 @@
 <div align="center">
 
-# Priyansh Shrivastava
+# Hey, I'm Priyansh Shrivastava 👋
 
-### Product-minded engineer building useful digital experiences
+### Product Builder · Generative AI Engineer · Business Analytics
 
-<a href="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+useful+products;Building+with+a+product+mindset;Exploring+AI+and+full-stack+development">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+useful+products;Building+with+a+product+mindset;Exploring+AI+and+full-stack+development" alt="Animated introduction" />
+**Building at the intersection of AI, software engineering, data, and product management.**
+
+<a href="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Turning+complex+problems+into+useful+products;From+product+discovery+to+deployment;Building+AI-powered+experiences">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Turning+complex+problems+into+useful+products;From+product+discovery+to+deployment;Building+AI-powered+experiences" alt="Animated introduction" />
 </a>
 
 <p>
-  <a href="https://github.com/priyanshshrivastava38-create?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="https://github.com/priyanshshrivastava38-create"><img src="https://img.shields.io/badge/Connect-on%20GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
+  <a href="https://github.com/priyanshshrivastava38-create?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="mailto:priyanshshrivasta38@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-Email-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 </p>
 
 </div>
 
 ---
 
-## About
+I build products at the intersection of **Artificial Intelligence, Software Engineering, Data Analytics, and Product Management**. I enjoy turning complex problems into practical products—from understanding user needs and shaping product direction to building, testing, and shipping solutions.
 
-I’m interested in the space where **product thinking meets engineering**: understanding a problem, shaping a useful solution, and building it into a working experience. I enjoy exploring AI-powered ideas and creating projects that solve practical problems.
+🎓 **MSc Business Analytics** — University College Cork, Ireland  
+💻 **B.Tech Computer Science** — VIT Bhopal University  
+🚀 Building AI-powered products and intelligent applications at **VIH Research Labs**
 
-## How I Think About Building
+## About Me
 
-| Product | Engineering | Iteration |
+- 🔭 Building AI-driven applications, intelligent workflows, and product solutions.
+- 🧠 Exploring Generative AI, LLMs, Retrieval-Augmented Generation (RAG), and AI product development.
+- 📊 Interested in product strategy, business analytics, product discovery, and data-informed decisions.
+- 🛠️ Experienced in taking products from requirements and ideation through implementation and deployment.
+- 🎯 Interested in AI Product Engineering, Associate Product Management, Product Analytics, and Technical Product Development.
+
+> Great products aren't built by technology alone. They come from understanding people, solving meaningful problems, and executing well.
+
+## Featured Projects
+
+| Project | What it does | Tech / focus |
 |:--|:--|:--|
-| Start with a real user need | Turn ideas into working experiences | Learn from feedback and improve |
+| **VoiceRAG** | Low-latency voice-based RAG assistant for organisation-specific knowledge retrieval. | Python · LLMs · RAG |
+| **ProductPulse AI** | Feedback intelligence platform for sentiment analysis, semantic clustering, and evidence-based roadmap prioritisation. | Python · Streamlit · Product analytics |
+| **VIH CRM** | Internal CRM platform, developed from requirements and data modelling through implementation and deployment. | Next.js · Prisma · PostgreSQL |
+| **Coding Mirchi** | EdTech MVP taken from concept to launch, reaching approximately 1,000 initial users. | Product management · APIs · Web development |
+| **Bengaluru House Price Prediction** | Machine-learning model trained on 13,000+ records, reporting 84.5% accuracy. | Python · Pandas · Scikit-learn |
 
-## Technologies
+[Explore more of my repositories →](https://github.com/priyanshshrivastava38-create?tab=repositories)
 
-These are technologies and areas I’m exploring through hands-on projects:
+## Skills & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-Explore-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-Explore-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-Explore-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-Explore-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-Explore-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/React-Explore-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
-  <img src="https://img.shields.io/badge/AI%20%26%20GenAI-Exploring-6C63FF?style=flat-square" alt="AI and generative AI" />
-</p>
+**Languages & development**
 
-## Selected Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-- **[Grit Interview Hub](https://github.com/priyanshshrivastava38-create/grit-interview-hub)** — An interview-preparation project.
-- **[VoiceRAG](https://github.com/priyanshshrivastava38-create/Voicerag)** — Exploring voice and AI.
-- **[AI Chatbot](https://github.com/priyanshshrivastava38-create/AI-Chatbot-)** — A chatbot project.
-- **[Portfolio](https://github.com/priyanshshrivastava38-create/Portfolio-priyansh)** — Portfolio and project showcase.
+**AI & data science**
 
-<p align="center">
-  <a href="https://github.com/priyanshshrivastava38-create?tab=repositories"><b>More projects →</b></a>
-</p>
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00897B?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Databases & tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Product management & analytics**
+
+Product Discovery · PRDs · Roadmaps · User Research · Feature Prioritisation · RICE · MoSCoW · SQL · Power BI · Tableau · Advanced Excel
 
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanshshrivastava38-create&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshshrivastava38-create&layout=compact&hide_border=true&theme=transparent" alt="Most used languages on GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanshshrivastava38-create&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshshrivastava38-create&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshshrivastava38-create&hide_border=true&theme=github-compact" alt="GitHub contribution activity graph" />
+  <img src="https://streak-stats.demolab.com?user=priyanshshrivastava38-create&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-## Let’s Connect
+## Let's Connect
 
-I’m always glad to connect with people building thoughtful products and useful technology.
+I'm always open to discussing thoughtful products, AI applications, technology, and opportunities to collaborate.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/priyanshshrivastava38-create)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshshrivasta38@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshshrivastava38-create)
 
 <div align="center">
 
-*Think like a product builder. Build like an engineer.*
+⭐ *Building, learning, experimenting, and shipping—one project at a time.*
 
 </div>
